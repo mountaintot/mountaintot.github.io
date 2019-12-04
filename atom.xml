@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://github.com/mountaintot/mountaintot.github.io</id>
+    <id>https://mountaintot.github.io</id>
     <title>Gridea</title>
-    <updated>2019-12-04T12:06:37.337Z</updated>
+    <updated>2019-12-04T12:08:23.544Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://github.com/mountaintot/mountaintot.github.io"/>
-    <link rel="self" href="https://github.com/mountaintot/mountaintot.github.io/atom.xml"/>
+    <link rel="alternate" href="https://mountaintot.github.io"/>
+    <link rel="self" href="https://mountaintot.github.io/atom.xml"/>
     <subtitle>栽一棵树</subtitle>
-    <logo>https://github.com/mountaintot/mountaintot.github.io/images/avatar.png</logo>
-    <icon>https://github.com/mountaintot/mountaintot.github.io/favicon.ico</icon>
+    <logo>https://mountaintot.github.io/images/avatar.png</logo>
+    <icon>https://mountaintot.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, Gridea</rights>
     <entry>
         <title type="html"><![CDATA[First]]></title>
-        <id>https://github.com/mountaintot/mountaintot.github.io/post/first</id>
-        <link href="https://github.com/mountaintot/mountaintot.github.io/post/first">
+        <id>https://mountaintot.github.io/post/first</id>
+        <link href="https://mountaintot.github.io/post/first">
         </link>
         <updated>2019-12-04T12:03:41.000Z</updated>
         <content type="html"><![CDATA[<p>Let's GO.</p>
@@ -21,8 +21,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://github.com/mountaintot/mountaintot.github.io/post/hello-gridea</id>
-        <link href="https://github.com/mountaintot/mountaintot.github.io/post/hello-gridea">
+        <id>https://mountaintot.github.io/post/hello-gridea</id>
+        <link href="https://mountaintot.github.io/post/hello-gridea">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
