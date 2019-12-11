@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mountaintot.github.io</id>
     <title>Gridea</title>
-    <updated>2019-12-04T12:08:23.544Z</updated>
+    <updated>2019-12-11T16:48:13.663Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://mountaintot.github.io"/>
     <link rel="self" href="https://mountaintot.github.io/atom.xml"/>
@@ -10,6 +10,37 @@
     <logo>https://mountaintot.github.io/images/avatar.png</logo>
     <icon>https://mountaintot.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[股市日记_2019年12月11日]]></title>
+        <id>https://mountaintot.github.io/post/gu-shi-ri-ji-_2019-nian-12-yue-11-ri</id>
+        <link href="https://mountaintot.github.io/post/gu-shi-ri-ji-_2019-nian-12-yue-11-ri">
+        </link>
+        <updated>2019-12-11T16:04:31.000Z</updated>
+        <content type="html"><![CDATA[<p>南方航空<br>
+观察买进 是否有效突破箱体，突破则买，明日分时如果维持在6.99以上则买入，然后突破下一个箱体不能放天量<br>
+宝钢股份<br>
+预测明日仍然阳线或小阴，需要突破前面的压力线才算确立趋势<br>
+中环股份<br>
+处于下跌趋势，但似乎也已经止跌，支撑位有效，明日若可以收阳，则也可以买入<br>
+春秋航空<br>
+纳入观察，但起码要突破60日线再说<br>
+广信材料<br>
+疑似要企稳上攻，等待20日均线上传30日均线<br>
+江化微<br>
+走到一个倒立肩 头 肩的右方了，同事观察了均线，应该可以买入，</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[股市日记_2019年12月10日]]></title>
+        <id>https://mountaintot.github.io/post/gu-shi-ri-ji-_2019-nian-12-yue-10-ri</id>
+        <link href="https://mountaintot.github.io/post/gu-shi-ri-ji-_2019-nian-12-yue-10-ri">
+        </link>
+        <updated>2019-12-10T14:59:12.000Z</updated>
+        <content type="html"><![CDATA[<h2 id="1">1</h2>
+<p>德赛西威 陆股通周加仓看到，5~120均线向上<br>
+拉夏贝尔	陆股通日加仓	20日线看有机会，但60 120还未转头向上，等待</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[First]]></title>
         <id>https://mountaintot.github.io/post/first</id>
