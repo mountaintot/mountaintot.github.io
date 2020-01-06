@@ -2,14 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mountaintot.github.io</id>
     <title>Gridea</title>
-    <updated>2019-12-11T16:51:27.759Z</updated>
+    <updated>2020-01-06T14:19:43.893Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://mountaintot.github.io"/>
     <link rel="self" href="https://mountaintot.github.io/atom.xml"/>
     <subtitle>栽一棵树</subtitle>
     <logo>https://mountaintot.github.io/images/avatar.png</logo>
     <icon>https://mountaintot.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2019, Gridea</rights>
+    <rights>All rights reserved 2020, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[股市日记_2020年1月6日]]></title>
+        <id>https://mountaintot.github.io/post/gu-shi-ri-ji-_2020-nian-1-yue-6-ri</id>
+        <link href="https://mountaintot.github.io/post/gu-shi-ri-ji-_2020-nian-1-yue-6-ri">
+        </link>
+        <updated>2020-01-06T13:23:52.000Z</updated>
+        <content type="html"><![CDATA[<h2 id="卖出计划">卖出计划</h2>
+<p>1 信立泰<br>
+成本：20.080<br>
+卖出目标：20.250<br>
+是否会跌破五日线，卖出</p>
+<p>2 江西铜业<br>
+成本：17.228 400股<br>
+卖出目标： 低开低走 17.16卖，开盘挂17.42 200股<br>
+看明天是否会走阳</p>
+<h2 id="观察">观察</h2>
+<p>1 亚太股份<br>
+仍会上涨，长上影线</p>
+<p>2 格尔软件<br>
+上探35.20</p>
+<p>3 歌尔股份<br>
+有资金可以建仓 20.26买<br>
+4 三安光电<br>
+有资金可以建仓 19.20买</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[股市日记_2019年12月11日]]></title>
         <id>https://mountaintot.github.io/post/gu-shi-ri-ji-_2019-nian-12-yue-11-ri</id>
