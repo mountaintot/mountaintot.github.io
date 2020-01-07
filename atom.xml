@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mountaintot.github.io</id>
     <title>Gridea</title>
-    <updated>2020-01-06T14:29:01.249Z</updated>
+    <updated>2020-01-07T16:23:47.058Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://mountaintot.github.io"/>
     <link rel="self" href="https://mountaintot.github.io/atom.xml"/>
@@ -10,6 +10,41 @@
     <logo>https://mountaintot.github.io/images/avatar.png</logo>
     <icon>https://mountaintot.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[股市日记_2020年1月7日]]></title>
+        <id>https://mountaintot.github.io/post/L7Q3_c9Lz</id>
+        <link href="https://mountaintot.github.io/post/L7Q3_c9Lz">
+        </link>
+        <updated>2020-01-07T12:52:05.000Z</updated>
+        <content type="html"><![CDATA[<h2 id="1-操作回顾">1 操作回顾</h2>
+<p><strong>卖出</strong><br>
+信立泰<br>
+1手 卖出 20.03 依据是60分钟图中线</p>
+<p>江西铜业<br>
+2手 卖出 17.020 当时比较慌，看分时就是一个趋势下跌，卖早了，还是应该看60分钟图</p>
+<p><strong>买入</strong><br>
+亚太股份 5手<br>
+买入 5.360，成本价5.370<br>
+买入原因 比较符合模式，在热门板块里看到的</p>
+<h2 id="卖出计划">卖出计划</h2>
+<p>暂无</p>
+<h2 id="观察">观察</h2>
+<p>顺络电子 本周估计还会上涨<br>
+汇川技术 本周横盘或下跌<br>
+中兴通讯 周线有向上的动力，但有压制，日线也有压制，本周横盘<br>
+凯乐科技 预计可以涨，但本周可能会上涨后回落<br>
+润和软件 从周线上看，本周可以介入，但要注意回调<br>
+汉得信息 和润和软件非常像<br>
+国星光电 看不准，都有可能</p>
+<p>不一个个看了</p>
+<p>网宿科技 本周上涨，注意调整<br>
+深南电路 看涨<br>
+光环新网 本周涨<br>
+沪电股份 看涨，叠加特斯拉<br>
+三安光电 跌<br>
+北斗星通 震荡</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[股市日记_2020年1月6日]]></title>
         <id>https://mountaintot.github.io/post/gu-shi-ri-ji-_2020-nian-1-yue-6-ri</id>
