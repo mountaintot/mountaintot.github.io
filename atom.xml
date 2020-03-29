@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mountaintot.github.io</id>
     <title>Gridea</title>
-    <updated>2020-01-14T14:15:10.847Z</updated>
+    <updated>2020-03-29T14:50:48.209Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://mountaintot.github.io"/>
     <link rel="self" href="https://mountaintot.github.io/atom.xml"/>
@@ -11,9 +11,30 @@
     <icon>https://mountaintot.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Gridea</rights>
     <entry>
+        <title type="html"><![CDATA[股市日记_2020年3月29日]]></title>
+        <id>https://mountaintot.github.io/post/j9U2QObFT/</id>
+        <link href="https://mountaintot.github.io/post/j9U2QObFT/">
+        </link>
+        <updated>2020-03-29T14:33:53.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="1-持仓分析">1 持仓分析</h1>
+<p><strong>鱼跃医疗</strong><br>
+周末国外疫情发酵，上周四 周五 放天量换手。</p>
+<p><strong>千禾味业</strong><br>
+整体位于箱体上部，但看筹码峰12月3号-1月14号震荡的筹码还在，切在临近箱体顶部做了小碎步上升缩量整理，看起来还好。</p>
+<h1 id="2-操作展望">2 操作展望</h1>
+<p><strong>鱼跃医疗</strong><br>
+这时候啥都说不准了，成妖还是一地鸡毛全靠情绪</p>
+<p><strong>千禾味业</strong><br>
+看明天是否还是缩量震荡，明显下跌则走人，否则持有</p>
+<h1 id="3-观察">3 观察</h1>
+<p><strong>太阳纸业</strong><br>
+预测明天最低点在9.00，最高点在9.17左右😎</p>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[股市日记_2020年1月14日]]></title>
-        <id>https://mountaintot.github.io/post/zoCA1r3ts</id>
-        <link href="https://mountaintot.github.io/post/zoCA1r3ts">
+        <id>https://mountaintot.github.io/post/zoCA1r3ts/</id>
+        <link href="https://mountaintot.github.io/post/zoCA1r3ts/">
         </link>
         <updated>2020-01-14T12:34:26.000Z</updated>
         <content type="html"><![CDATA[<h2 id="观察">观察</h2>
@@ -24,8 +45,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[股市日记_2020年1月9日]]></title>
-        <id>https://mountaintot.github.io/post/2YxluW3YW</id>
-        <link href="https://mountaintot.github.io/post/2YxluW3YW">
+        <id>https://mountaintot.github.io/post/2YxluW3YW/</id>
+        <link href="https://mountaintot.github.io/post/2YxluW3YW/">
         </link>
         <updated>2020-01-09T16:13:10.000Z</updated>
         <content type="html"><![CDATA[<h2 id="1-操作回顾">1 操作回顾</h2>
@@ -69,8 +90,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[股市日记_2020年1月8日]]></title>
-        <id>https://mountaintot.github.io/post/x43Krt9WO</id>
-        <link href="https://mountaintot.github.io/post/x43Krt9WO">
+        <id>https://mountaintot.github.io/post/x43Krt9WO/</id>
+        <link href="https://mountaintot.github.io/post/x43Krt9WO/">
         </link>
         <updated>2020-01-08T15:53:07.000Z</updated>
         <content type="html"><![CDATA[<h2 id="1-操作回顾">1 操作回顾</h2>
@@ -104,8 +125,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[股市日记_2020年1月7日]]></title>
-        <id>https://mountaintot.github.io/post/L7Q3_c9Lz</id>
-        <link href="https://mountaintot.github.io/post/L7Q3_c9Lz">
+        <id>https://mountaintot.github.io/post/L7Q3_c9Lz/</id>
+        <link href="https://mountaintot.github.io/post/L7Q3_c9Lz/">
         </link>
         <updated>2020-01-07T12:52:05.000Z</updated>
         <content type="html"><![CDATA[<h2 id="1-操作回顾">1 操作回顾</h2>
@@ -139,8 +160,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[股市日记_2020年1月6日]]></title>
-        <id>https://mountaintot.github.io/post/gu-shi-ri-ji-_2020-nian-1-yue-6-ri</id>
-        <link href="https://mountaintot.github.io/post/gu-shi-ri-ji-_2020-nian-1-yue-6-ri">
+        <id>https://mountaintot.github.io/post/gu-shi-ri-ji-_2020-nian-1-yue-6-ri/</id>
+        <link href="https://mountaintot.github.io/post/gu-shi-ri-ji-_2020-nian-1-yue-6-ri/">
         </link>
         <updated>2020-01-06T13:23:52.000Z</updated>
         <content type="html"><![CDATA[<h2 id="卖出计划">卖出计划</h2>
@@ -170,8 +191,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[股市日记_2019年12月11日]]></title>
-        <id>https://mountaintot.github.io/post/gu-shi-ri-ji-_2019-nian-12-yue-11-ri</id>
-        <link href="https://mountaintot.github.io/post/gu-shi-ri-ji-_2019-nian-12-yue-11-ri">
+        <id>https://mountaintot.github.io/post/gu-shi-ri-ji-_2019-nian-12-yue-11-ri/</id>
+        <link href="https://mountaintot.github.io/post/gu-shi-ri-ji-_2019-nian-12-yue-11-ri/">
         </link>
         <updated>2019-12-11T16:04:31.000Z</updated>
         <content type="html"><![CDATA[<p>选股 板块主力五日增仓<br>
@@ -192,8 +213,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[股市日记_2019年12月10日]]></title>
-        <id>https://mountaintot.github.io/post/gu-shi-ri-ji-_2019-nian-12-yue-10-ri</id>
-        <link href="https://mountaintot.github.io/post/gu-shi-ri-ji-_2019-nian-12-yue-10-ri">
+        <id>https://mountaintot.github.io/post/gu-shi-ri-ji-_2019-nian-12-yue-10-ri/</id>
+        <link href="https://mountaintot.github.io/post/gu-shi-ri-ji-_2019-nian-12-yue-10-ri/">
         </link>
         <updated>2019-12-10T14:59:12.000Z</updated>
         <content type="html"><![CDATA[<h2 id="1">1</h2>
@@ -203,8 +224,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[First]]></title>
-        <id>https://mountaintot.github.io/post/first</id>
-        <link href="https://mountaintot.github.io/post/first">
+        <id>https://mountaintot.github.io/post/first/</id>
+        <link href="https://mountaintot.github.io/post/first/">
         </link>
         <updated>2019-12-04T12:03:41.000Z</updated>
         <content type="html"><![CDATA[<p>Let's GO.</p>
@@ -212,8 +233,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://mountaintot.github.io/post/hello-gridea</id>
-        <link href="https://mountaintot.github.io/post/hello-gridea">
+        <id>https://mountaintot.github.io/post/hello-gridea/</id>
+        <link href="https://mountaintot.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
